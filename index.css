@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+h1{
+    font-size: 100px;
+    margin-top: -200px;
+}
+body{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(blue,red);
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex-direction: column;
+}
+.alphabets{
+font-size : 30px ;
+color: linear;
+}
+.numbers{
+    font-size: 75px;
+}
+#parent {
+    margin-top: 100px;
+}
